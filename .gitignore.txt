@@ -4,14 +4,14 @@
 # =============== #
 # Unity generated #
 # =============== #
-/Temp
-/Library
-/Obj
-/Build
-/Builds
-/Logs
-/MemoryCaptures
-/SystemInfo
+/Temp/
+/Library/
+/Obj/
+/Build/
+/Builds/
+/Logs/
+/MemoryCaptures/
+/SystemInfo/
 
 # ===================================== #
 # Visual Studio / Rider / MonoDevelop    #
