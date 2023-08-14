@@ -138,7 +138,8 @@ Material:
     - __dirty: 1
     m_Colors:
     - _ColorAdjustment: {r: 1, g: 1, b: 1, a: 0}
-    - _DiffusionProfileAsset: {r: 0.0000000018238335, g: 8.720024e-27, b: 0.07043165, a: 1.1969789e-26}
+    - _DiffusionProfileAsset: {r: 0.0000000018238335, g: 8.720024e-27, b: 0.07043165,
+        a: 1.1969789e-26}
     - _DoubleSidedConstants: {r: 1, g: 1, b: -1, a: 0}
     - _DryColor: {r: 1, g: 1, b: 1, a: 0}
     - _EmissionColor: {r: 1, g: 1, b: 1, a: 1}
